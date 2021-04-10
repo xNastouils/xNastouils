@@ -1,3 +1,3 @@
 ### 💬 | Hello,
-### 💬 | my name is Antoine, I'm on a Java Developer Fast. I am currently Administrator of a minecraft project called Ozarya
+### 💬 | my name is Antoine, I am a Java developer. I am Administrator of the "Kazion" project but I am also a developer for the IronUHC server
 
